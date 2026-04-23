@@ -1,0 +1,9 @@
+D:\VSProjects\MissileTurret-main\bin\Debug\netstandard2.1\MissileTurret.deps.json
+D:\VSProjects\MissileTurret-main\bin\Debug\netstandard2.1\MissileTurret.dll
+D:\VSProjects\MissileTurret-main\obj\Debug\netstandard2.1\MissileTurret.csproj.AssemblyReference.cache
+D:\VSProjects\MissileTurret-main\obj\Debug\netstandard2.1\MyPluginInfo.cs
+D:\VSProjects\MissileTurret-main\obj\Debug\netstandard2.1\MissileTurret.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\MissileTurret-main\obj\Debug\netstandard2.1\MissileTurret.AssemblyInfoInputs.cache
+D:\VSProjects\MissileTurret-main\obj\Debug\netstandard2.1\MissileTurret.AssemblyInfo.cs
+D:\VSProjects\MissileTurret-main\obj\Debug\netstandard2.1\MissileTurret.csproj.CoreCompileInputs.cache
+D:\VSProjects\MissileTurret-main\obj\Debug\netstandard2.1\MissileTurret.dll
