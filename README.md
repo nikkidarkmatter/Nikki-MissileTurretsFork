@@ -10,7 +10,7 @@ They are like normal turrets but they shoot missiles.
 
 - Max missile speed  
 - Missile acceleration & turn rate  
-- Explosion kill & damage range  
+- Explosion kill & damage range
 - Turret rotation range & rate  
 - Turret charge up & reload time  
 - Max & min number of turret spawns  
@@ -21,7 +21,7 @@ They are like normal turrets but they shoot missiles.
 
 ### Issues & Suggestions  
 
-Please DM NikkiDarkMatter on Discord for any bugs! You can also report them on the github, but it is not maintained by me at the present.
+Please DM NikkiDarkMatter on Discord or report the bugs on the GitHub: https://github.com/nikkidarkmatter/Nikki-MissileTurretsFork
 
 #### Credits
 
@@ -33,3 +33,6 @@ Testing & Emotional Support
 - Swusan
 - X&R
 - Antonio
+
+Extra Help
+- Xu Xiaolan
