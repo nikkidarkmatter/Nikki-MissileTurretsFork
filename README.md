@@ -10,7 +10,7 @@ They are like normal turrets but they shoot missiles.
 
 - Max missile speed  
 - Missile acceleration & turn rate  
-- Explosion kill & damage range
+- Explosion kill & damage range  
 - Turret rotation range & rate  
 - Turret charge up & reload time  
 - Max & min number of turret spawns  
@@ -33,6 +33,3 @@ Testing & Emotional Support
 - Swusan
 - X&R
 - Antonio
-
-Extra Help
-- Xu Xiaolan
