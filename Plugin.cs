@@ -120,19 +120,19 @@ namespace MissileTurret
                 foreach (RandomMapObject randomMapObject in array)
                 {
                     // if it doesn't contain MissileTurret, skip
-                    if (!randomMapObject.spawnablePrefabs.Any(x => x.name.StartsWith("MissileTurret")))
+                    if (!randomMapObject.spawnablePrefabs.Any(x => x != null && x.name.StartsWith("MissileTurret")))
                     {
                         continue;
                     }
                     // if it contains vanilla TurretContainer, skip
-                    if (randomMapObject.spawnablePrefabs.Any(x => x.name.StartsWith("TurretContainer")))
+                    if (randomMapObject.spawnablePrefabs.Any(x => x != null && x.name.StartsWith("TurretContainer")))
                     {
                         continue;
                     }
                     // if it has MissileTurret and doesn't contain TurretContainer, remove MissileTurret
                     else
                     {
-                        randomMapObject.spawnablePrefabs.RemoveAll(x => x.name.StartsWith("MissileTurret"));
+                        randomMapObject.spawnablePrefabs.RemoveAll(x => x != null && x.name.StartsWith("MissileTurret"));
                     }
                     // A missile turret has fallen into a vent in Lego City
                     // Quick, build the rescue patcher

@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.10
+
+- Added a null check to the patch in case of gullible mods putting null prefabs where they shouldn't be
+- Added Far Audio sounds for the missile flying and beeping sounds
+- Increased ranges of base Audio Sources slightly
+- Reduced rocket floor bias
+
 ## 1.3.9
 
 - Changed spawn mechanics so missile turrets can now only spawn in places vanilla turrets can spawn

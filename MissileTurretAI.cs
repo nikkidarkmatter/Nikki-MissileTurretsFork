@@ -158,7 +158,7 @@ public class MissileTurretAI : NetworkBehaviour
                 {
                     if (base.IsServer)
                     {
-                        MissileAI ai = Instantiate(Plugin.MissilePrefab, rod.position + (Vector3.up), Quaternion.LookRotation(rod.up) * Quaternion.Euler(5f, 0f, 0f)).GetComponent<MissileAI>();
+                        MissileAI ai = Instantiate(Plugin.MissilePrefab, rod.position + (Vector3.up), Quaternion.LookRotation(rod.up) * Quaternion.Euler(2f, 0f, 0f)).GetComponent<MissileAI>();
                         ai.player = _targetPlayer.transform;
                         ai.GetComponent<NetworkObject>().Spawn(true); 
                         // fo sho fo real
